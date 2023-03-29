@@ -1,5 +1,5 @@
 ### Hi there 👋, Myself Chandar Rathi 
-#### I am  3rd year Computer Science student. 
+#### I am  4th year Computer Science student. 
 I am a Web developer with prior React JS framework and also with backend knowledge of NODE JS  and  C# dot net core(API developmet and microservices).
 Constatly improving my  skills and having fun while coding. 
 
