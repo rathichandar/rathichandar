@@ -4,10 +4,9 @@ I am a Web developer with prior React JS framework and also with backend knowled
 Constatly improving my  skills and having fun while coding. 
 
 
-Skills: REACT / JS / C# /NODE JS / JAVA/ REACT Native/HTML / CSS
+Skills:  Azure/ Docker/Linux/ Jenkins/Azure DevOps/ GitHub Actions/ Kubernetes/Argo CD/ Prometheus /REACT / Javascript /NODE JS / HTML / CSS
 
-- 🔭 I’m currently working on this page.https://rathichandar.github.io/CovidTracker/ 
-- 🌱 I’m currently learning Express JS  
+- 🌱 I’m currently learning  Devops and exploring the Operation world .  
 - 📫 How to reach me: rathichandar@gmail.com 
 
 
