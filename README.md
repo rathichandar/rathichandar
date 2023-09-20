@@ -1,10 +1,10 @@
 ### Hi there 👋, Myself Chandar Rathi 
-#### I am  4th year Computer Science student. 
+#### I am BTECH Computer Science Graduate student. 
 I am a Web developer with prior React JS framework and also with backend knowledge of NODE JS  and  C# dot net core(API developmet and microservices).
 Constatly improving my  skills and having fun while coding. 
 
 
-Skills:  Azure/ Docker/Linux/ Jenkins/Azure DevOps/ GitHub Actions/ Kubernetes/Argo CD/ Prometheus /REACT / Javascript /NODE JS / HTML / CSS
+Skills:  AWS / Docker/Linux/ Jenkins/Azure DevOps/ GitHub Actions/ Kubernetes/Argo CD/ Prometheus /REACT / Javascript /NODE JS / HTML / CSS
 
 - 🌱 I’m currently learning  Devops and exploring the Operation world .  
 - 📫 How to reach me: rathichandar@gmail.com 
