@@ -1,6 +1,6 @@
 ### Hi there 👋, Myself Chandar Rathi 
-#### I am BTECH Computer Science Graduate student. 
-I am a Web developer with prior React JS framework and also with backend knowledge of NODE JS  and  C# dot net core(API developmet and microservices).
+#### I am doing my master's in  Computer Science at Cal State Fullerton. 
+I am a software developer with prior React JS framework and also with backend knowledge of NODE JS  and  C# dot net core(API developmet and microservices).
 Constatly improving my  skills and having fun while coding. 
 
 
